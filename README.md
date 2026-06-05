@@ -1,19 +1,23 @@
-# Albrian Pikikene
+Selamat datang di repositori **Tugas Hands-On Data Science**!  
+Repositori ini berisi kumpulan tugas praktik (hands-on) yang dikerjakan selama mengikuti mata kuliah Data Science, meliputi eksplorasi data, pemrosesan, visualisasi, hingga penerapan model machine learning secara langsung.
 
-Mahasiswa semester 4 yang sedang belajar memahami data
-dan mengubahnya menjadi sesuatu yang bermakna.
+## Identitas
 
----
+| Keterangan      | Detail                |
+|-----------------|-----------------------|
+| **Nama**        | Albrian Pikikene      |
+| **NIK**         | 240401010160          |
+| **Mata Kuliah** | Data Science          |
 
-## Repositori Ini Berisi
-Dokumentasi hands-on dan tugas Data Science yang saya
-kerjakan selama perkuliahan tahun 2026.
+## Tools dan Library
 
----
+Beberapa library utama yang digunakan selama pengerjaan tugas:
 
-## Tools
-Python · Pandas · NumPy · Matplotlib · Scikit-learn
-
----
-
-*Masih belajar, masih berkembang — Albrian, 2026*
+| Library | Kegunaan |
+|---------|----------|
+| **Python** | Bahasa pemrograman utama |
+| **Pandas** | Membaca dan mengolah data (CSV, Excel, dll) |
+| **NumPy** | Operasi numerik dan array |
+| **Matplotlib** | Membuat visualisasi data dasar |
+| **Seaborn** | Visualisasi statistik yang lebih informatif |
+| **Scikit-learn** | Implementasi model machine learning |
